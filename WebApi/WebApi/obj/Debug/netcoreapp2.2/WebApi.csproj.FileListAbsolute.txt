@@ -1,0 +1,13 @@
+C:\Users\hilel attia\source\repos\WebAPI\WebApi\bin\Debug\netcoreapp2.2\WebApi.deps.json
+C:\Users\hilel attia\source\repos\WebAPI\WebApi\bin\Debug\netcoreapp2.2\WebApi.runtimeconfig.json
+C:\Users\hilel attia\source\repos\WebAPI\WebApi\bin\Debug\netcoreapp2.2\WebApi.runtimeconfig.dev.json
+C:\Users\hilel attia\source\repos\WebAPI\WebApi\bin\Debug\netcoreapp2.2\WebApi.dll
+C:\Users\hilel attia\source\repos\WebAPI\WebApi\bin\Debug\netcoreapp2.2\WebApi.pdb
+C:\Users\hilel attia\source\repos\WebAPI\WebApi\obj\Debug\netcoreapp2.2\WebApi.RazorAssemblyInfo.cache
+C:\Users\hilel attia\source\repos\WebAPI\WebApi\obj\Debug\netcoreapp2.2\WebApi.RazorAssemblyInfo.cs
+C:\Users\hilel attia\source\repos\WebAPI\WebApi\obj\Debug\netcoreapp2.2\WebApi.AssemblyInfoInputs.cache
+C:\Users\hilel attia\source\repos\WebAPI\WebApi\obj\Debug\netcoreapp2.2\WebApi.AssemblyInfo.cs
+C:\Users\hilel attia\source\repos\WebAPI\WebApi\obj\Debug\netcoreapp2.2\WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\hilel attia\source\repos\WebAPI\WebApi\obj\Debug\netcoreapp2.2\WebApi.dll
+C:\Users\hilel attia\source\repos\WebAPI\WebApi\obj\Debug\netcoreapp2.2\WebApi.pdb
+C:\Users\hilel attia\source\repos\WebAPI\WebApi\obj\Debug\netcoreapp2.2\WebApi.csprojAssemblyReference.cache
